@@ -1,5 +1,5 @@
 # A Car Purchase Prediction Model
-A prediction model implemented using artifical neural networks and linear regression.
+A prediction model implemented using artificial neural networks and linear regression.
 
 # Algorithms Used
 
